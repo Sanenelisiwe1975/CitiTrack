@@ -7,7 +7,7 @@
 
 > **Empowering South African communities through AI automation, blockchain transparency, and offline-capable technology.**
 
-CitiTrack is a hackathon project that addresses persistent municipal service-delivery challenges across South Africa by combining artificial intelligence, blockchain technology, and progressive web application design.
+CitiTrack is a project that addresses persistent municipal service-delivery challenges across South Africa by combining artificial intelligence, blockchain technology, and progressive web application design.
 
 ---
 
