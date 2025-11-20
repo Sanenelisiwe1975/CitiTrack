@@ -413,9 +413,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Your Name** - Full Stack Development
-- **Team Member 2** - AI/ML Engineering
-- **Team Member 3** - Blockchain Development
+- **Sanelisiwe Simatu- Full Stack Development
+- **Dube** - AI/ML Engineering
+- **Sinazo** - Blockchain Development
+- **Dlamini**
+- **Siepati**
 
 ---
 
